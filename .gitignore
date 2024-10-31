@@ -1,0 +1,24 @@
+# Ignorar pastas do sistema e arquivos de usuário
+../../*
+
+# Ignorar diretórios do Windows
+Ambiente de Impressão/
+Ambiente de Rede/
+Configurações Locais/
+Cookies/
+Dados de Aplicativos/
+Menu Iniciar/
+Meus Documentos/
+Modelos/
+Recent/
+SendTo/
+
+# Outros arquivos de usuário
+.bash_history
+.gitconfig
+.vscode/
+NTUSER.DAT*
+ntuser.dat.LOG*
+ntuser.ini
+OneDrive/
+/node_modules
